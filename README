@@ -4,12 +4,8 @@ This repository is created to agilize the beginning of a project and of course, 
 
 I'm using these powerful libraries
 
-* [Redux](https://github.com/reduxjs/redux)
-
-* [Redux Saga](https://github.com/redux-saga/redux-saga)
-
-* [React Redux](https://github.com/reduxjs/react-redux)
-
-* [React Router](https://github.com/ReactTraining/react-router)
-
-* [Axios](https://github.com/axios/axios)
+* Redux - https://github.com/reduxjs/redux
+* Redux Saga - https://github.com/redux-saga/redux-saga
+* React Redux - https://github.com/reduxjs/react-redux 
+* React Router - https://github.com/ReactTraining/react-router
+* Axios - https://github.com/axios/axios
